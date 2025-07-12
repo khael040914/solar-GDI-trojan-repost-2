@@ -1,0 +1,5 @@
+a trojan that deletes kernel32 and yes no mbr cuzim busy asf
+also i will modifed it soon
+some payload dont work so yeah
+INFO 2
+if any error popup click ok
